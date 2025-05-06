@@ -23,6 +23,10 @@
        echo 'Usuario: '.$nombre_usuario;
     ?>
     <hr>
+    <a href="registrar_empleado.php">Registrar Empleado</a>
+    <hr>
     <a href="modelo/cerrar_sesion.php">Cerrar Sesión</a>
+    <hr>
+    <a href="registrar_departamento.php">Registrar Departamento</a>
 <body>
 </html>
