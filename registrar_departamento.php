@@ -36,8 +36,9 @@
         <label for="">Nombre departamento:</label>
         <input type="text" name="nombre_departamento" id="" required>
         <br><br>
-        <label for=""> departamento:</label>
-        <input type="text" name="nombre_departamento" id="" required>
+        <label for="">Presupuesto Departamento:</label>
+        <input type="text" name="presupuesto_departamento" id="" required>
+        <br><br>
         <button type="submit">Ingresar</button>
         <br><br>
     </form>

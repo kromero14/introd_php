@@ -5,10 +5,10 @@
     // parametros requeridos para la conexion con la BD
 
     // parametros BD local
-    DEFINE("USER", "root"); // se crea la constante user con valor "root"
-    DEFINE("PW", "");
-    DEFINE("HOST", "localhost");
-    DEFINE("BD", "Empresa");
+        DEFINE("USER", "root"); // se crea la constante user con valor "root"
+        DEFINE("PW", "");
+        DEFINE("HOST", "localhost");
+        DEFINE("BD", "Empresa");
 
     // Parametros BD remota (infinityfree.com)
     /*DEFINE("USER", "if0_38542099"); // se crea la constante user con valor "if0_38542099"
